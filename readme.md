@@ -5,9 +5,9 @@
 
 ## 핵심 모델링
 
-1. **부채 모델**: Compound Poisson-Pareto Process를 통한 거대 재난 구현
-2. **자산 모델**: Fed Model 기반 금리-주식 역상관 자산 동학 적용
-3. **리스크 관리**: $CVaR_{95\%}$ 페널티 및 Solvency II 규제 준수 로직
+1. **부채 모델** : Compound Poisson-Pareto Process를 통한 거대 재난 구현
+2. **자산 모델** : Fed Model 기반 금리-주식 역상관 자산 동학 적용
+3. **리스크 관리** : $CVaR_{95\%}$ 페널티 및 Solvency II 규제 준수 로직
 
 
 ## 실행 방법
