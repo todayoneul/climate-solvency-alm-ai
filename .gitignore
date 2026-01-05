@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# AI Models & Logs
+tensorboard_logs/
+logs/
+models/checkpoint_*.zip  # 체크포인트는 제외하고 최종 모델만 올릴 경우
+
+# OS
+.DS_Store
+Thumbs.db
